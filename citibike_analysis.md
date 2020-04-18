@@ -38,12 +38,15 @@ It would be interesting to understand which suburbs are in the radius of 20-25 m
 ### Analysing a possible heatmap area in Des Moines
 If analysing the NY heatmap area for the busiest places to start and to finish a bike trip it is possible to see a correlation to the McDonalds locations.
 
-- ![alt text](https://github.com/DaniGio/Bikesharing2/blob/master/Pic/Milleniums%20numbers.png)
+- ![alt text](https://github.com/DaniGio/Bikesharing2/blob/master/Pic/Heatmap%20and%20McDonalds.png)
 
 If we consider that the same behaviour is expected in Des Moines, the heatmap for the busiest locations will be as McDonalds locations below.
 
+- ![alt text](https://github.com/DaniGio/Bikesharing2/blob/master/Pic/Mcdonalds%20distribution%20in%20DesMoines.png)
 
 Considereing the 20-25 min radius analised previusly with the trip duration dashboard, the orange dots would be inside the heatmap radius
+
+- ![alt text](https://github.com/DaniGio/Bikesharing2/blob/master/Pic/Distance.png)
 
 ### Next Steps
 It would be interesting to understand which suburbs are in the radius of 20-25 min from des moines city, if the people in this radius have cars and how is parking in the city, how is public transportation, etc
@@ -52,6 +55,5 @@ For more information, please visit the dashboard and stories below:
 
 -[link to dashboard](https://public.tableau.com/profile/danigio#!/vizhome/Module14_black_15872127517640/LocationHeatmapandMCDonaldsdashboard?publish=yes)
 
-+Dashboards tabs are called: NYC Citi Bike Dashboard and Location Heatmap and MC Donalds dashboard
-
+*Dashboards tabs are called: NYC Citi Bike Dashboard and Location Heatmap and MC Donalds dashboard
 *Story can be found in the Story tab 1 and 2
